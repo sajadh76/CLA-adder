@@ -1,3 +1,10 @@
+---------------------------------------------------------------------
+--  selection sort algorithm with a random number generator using MIPS - Assembly           
+--  engineer: sajad hamzenejadi                                                            
+--  email: sajadhamzenejadi76@gmail.com                                                     
+-- 2017, iran                                                                      
+---------------------------------------------------------------------
+
 library ieee;
 use ieee.std_logic_1164.all;
 entity carry_lookahead_adder is
