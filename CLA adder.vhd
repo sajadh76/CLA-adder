@@ -1,9 +1,9 @@
----------------------------------------------------------------------
---  selection sort algorithm with a random number generator using MIPS - Assembly           
---  engineer: sajad hamzenejadi                                                            
---  email: sajadhamzenejadi76@gmail.com                                                     
--- 2017, iran                                                                      
----------------------------------------------------------------------
+--------------------------------------------
+-- 16 bit CLA adder in VHDL               --   
+-- Engineer: Sajad Hamzenejadi            --                                                       
+-- Email: sajadhamzenejadi76@gmail.com    --                                                    
+-- Iran                                   --                                                
+--------------------------------------------
 
 library ieee;
 use ieee.std_logic_1164.all;
