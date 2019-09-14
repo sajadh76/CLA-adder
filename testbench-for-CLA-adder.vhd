@@ -1,4 +1,9 @@
-
+--------------------------------------------
+-- Testbench for 16 bit CLA adder in VHDL -- 
+-- Engineer: Sajad Hamzenejadi            --                                                       
+-- Email: sajadhamzenejadi76@gmail.com    --                                                    
+-- Iran                                   --                                                
+--------------------------------------------
 
 library ieee;
 use ieee.std_logic_1164.all;entity carry_lookahead_adder_tb is
